@@ -1,8 +1,20 @@
 {
   "filters": [
-    {"url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt", "regions": []},
-    {"url": "https://raw.githubusercontent.com/StevenBlack/hosts/...", "regions": []},
-    {"url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt", "regions": ["KR"]},
-    {"url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt", "regions": ["KR"]}
+    {
+      "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "regions": []
+    },
+    {
+      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/...",
+      "regions": []
+    },
+    {
+      "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt",
+      "regions": ["KR"]
+    },
+    {
+      "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt",
+      "regions": ["KR"]
+    }
   ]
 }
