@@ -1,0 +1,414 @@
+{
+    "apps": {
+        "youtube": [
+            {
+                "pkg": "com.google.android.youtube",
+                "name": "YouTube"
+            },
+            {
+                "pkg": "com.vanced.android.youtube",
+                "name": "YouTube Vanced"
+            },
+            {
+                "pkg": "app.revanced.android.youtube",
+                "name": "YouTube ReVanced"
+            },
+            {
+                "pkg": "app.rvx.android.youtube",
+                "name": "YouTube RVX"
+            },
+            {
+                "pkg": "app.morphe.android.youtube",
+                "name": "YouTube Morphe"
+            },
+            {
+                "pkg": "com.google.android.apps.youtube.music",
+                "name": "YouTube Music"
+            },
+            {
+                "pkg": "app.vanced.android.apps.youtube.music",
+                "name": "YouTube Music Vanced"
+            },
+            {
+                "pkg": "app.revanced.android.apps.youtube.music",
+                "name": "YouTube Music ReVanced"
+            },
+            {
+                "pkg": "app.rvx.android.apps.youtube.music",
+                "name": "YouTube Music RVX"
+            },
+            {
+                "pkg": "app.morphe.android.apps.youtube.music",
+                "name": "YouTube Music Morphe"
+            }
+        ],
+        "tiktok": [
+            {
+                "pkg": "com.zhiliaoapp.musically",
+                "name": "TikTok"
+            },
+            {
+                "pkg": "com.ss.android.ugc.trill",
+                "name": "TikTok"
+            },
+            {
+                "pkg": "com.ss.android.ugc.aweme",
+                "name": "TikTok"
+            },
+            {
+                "pkg": "com.ss.android.ugc.aweme.lite",
+                "name": "TikTok Lite"
+            }
+        ],
+        "instagram": [
+            {
+                "pkg": "com.instagram.android",
+                "name": "Instagram"
+            },
+            {
+                "pkg": "com.instagram.lite",
+                "name": "Instagram Lite"
+            },
+            {
+                "pkg": "com.instagram.barcelona",
+                "name": "Threads"
+            }
+        ],
+        "snapchat": [
+            {
+                "pkg": "com.snapchat.android",
+                "name": "Snapchat"
+            }
+        ],
+        "facebook": [
+            {
+                "pkg": "com.facebook.katana",
+                "name": "Facebook"
+            },
+            {
+                "pkg": "com.facebook.lite",
+                "name": "Facebook Lite"
+            },
+            {
+                "pkg": "com.facebook.mlite",
+                "name": "Facebook"
+            }
+        ],
+        "bypass": [
+            {
+                "pkg": "com.nordvpn.android",
+                "name": "NordVPN"
+            },
+            {
+                "pkg": "com.expressvpn.vpn",
+                "name": "ExpressVPN"
+            },
+            {
+                "pkg": "com.tunnelbear.android",
+                "name": "TunnelBear"
+            },
+            {
+                "pkg": "org.torproject.android",
+                "name": "Tor Browser"
+            },
+            {
+                "pkg": "com.cloudflare.onedotonedotonedotone",
+                "name": "1.1.1.1"
+            },
+            {
+                "pkg": "com.google.android.apps.subscriptions.red",
+                "name": "Google One VPN"
+            },
+            {
+                "pkg": "com.hide.vpn",
+                "name": "HideMe VPN"
+            },
+            {
+                "pkg": "com.privateinternetaccess.android",
+                "name": "PIA VPN"
+            },
+            {
+                "pkg": "com.psiphon3.subscription",
+                "name": "Psiphon"
+            },
+            {
+                "pkg": "com.windscribe.vpn",
+                "name": "Windscribe VPN"
+            },
+            {
+                "pkg": "com.hola",
+                "name": "Hola VPN"
+            },
+            {
+                "pkg": "free.vpn.unblock.proxy.turbovpn",
+                "name": "Turbo VPN"
+            },
+            {
+                "pkg": "hotspotshield.android.vpn",
+                "name": "Hotspot Shield"
+            },
+            {
+                "pkg": "com.anchorfree.hotspotshield",
+                "name": "Hotspot Shield"
+            },
+            {
+                "pkg": "com.betternet.co",
+                "name": "Betternet VPN"
+            },
+            {
+                "pkg": "com.touchvpn",
+                "name": "Touch VPN"
+            },
+            {
+                "pkg": "com.browsec.vpn",
+                "name": "Browsec VPN"
+            },
+            {
+                "pkg": "com.surfshark.vpnclient.android",
+                "name": "Surfshark VPN"
+            },
+            {
+                "pkg": "ch.protonvpn.android",
+                "name": "Proton VPN"
+            },
+            {
+                "pkg": "com.vpn.free.hotspot.secure.vpnify",
+                "name": "VPNIFY"
+            },
+            {
+                "pkg": "com.fast.free.unblock.secure.vpn",
+                "name": "Secure VPN"
+            },
+            {
+                "pkg": "com.free.vpn.proxy.hotspot",
+                "name": "SuperVPN"
+            }
+        ]
+    },
+    "domains": {
+        "youtube": [
+            "youtube.com",
+            "www.youtube.com",
+            "m.youtube.com",
+            "youtu.be",
+            "youtube-nocookie.com",
+            "youtubei.googleapis.com",
+            "youtube.googleapis.com",
+            "googlevideo.com",
+            "ytimg.com",
+            "i.ytimg.com",
+            "s.ytimg.com",
+            "yt3.ggpht.com",
+            "youtube-ui.l.google.com",
+            "ytimg.l.google.com",
+            "music.youtube.com",
+            "youtubeembeddedplayer.googleapis.com",
+            "youtubeanalytics.googleapis.com",
+            "youtubeads.googleapis.com",
+            "yt-video-upload.l.google.com",
+            "ytimg.googleusercontent.com"
+        ],
+        "tiktok": [
+            "tiktok.com",
+            "www.tiktok.com",
+            "vm.tiktok.com",
+            "tiktokv.com",
+            "tiktokcdn.com",
+            "tiktokcdn-us.com",
+            "tiktokcdn-eu.com",
+            "tiktokcdn-in.com",
+            "muscdn.com",
+            "ttwstatic.com",
+            "ttlivecdn.com",
+            "byteoversea.com",
+            "ibytedtos.com",
+            "byteimg.com",
+            "pstatp.com",
+            "snssdk.com",
+            "vt.tiktok.com",
+            "m.tiktok.com",
+            "api.tiktokv.com",
+            "api2.musical.ly",
+            "api2-16-h2.musical.ly",
+            "api19-normal-c-useast1a.tiktokv.com",
+            "mon.tiktokv.com",
+            "log.tiktokv.com",
+            "pull-flv-l1.tiktokcdn.com",
+            "pull-hls-l1.tiktokcdn.com",
+            "v16-webapp.tiktok.com",
+            "v19.tiktokcdn.com",
+            "sf16-website-login.neutral.ttwstatic.com",
+            "sf16-scmcdn-sg.ibytedtos.com",
+            "sf-tb-sg.ibytedtos.com",
+            "bytedance.com",
+            "bytecdn.cn",
+            "bytedance.map.fastly.net"
+        ],
+        "instagram": [
+            "instagram.com",
+            "www.instagram.com",
+            "i.instagram.com",
+            "api.instagram.com",
+            "graph.instagram.com",
+            "cdninstagram.com",
+            "instagram.fna.fbcdn.net",
+            "threads.net",
+            "www.threads.net",
+            "barcelona.instagram.com",
+            "static.cdninstagram.com",
+            "scontent.cdninstagram.com",
+            "instagramstatic-a.akamaihd.net",
+            "ig.me",
+            "igcdn.com",
+            "reels.instagram.com"
+        ],
+        "snapchat": [
+            "snapchat.com",
+            "www.snapchat.com",
+            "app.snapchat.com",
+            "api.snapchat.com",
+            "sc-cdn.net",
+            "snapkit.com",
+            "snap.com",
+            "bitmoji.com",
+            "snapchat.net",
+            "web.snapchat.com",
+            "accounts.snapchat.com",
+            "feelinsonice.appspot.com",
+            "app-analytics.snapchat.com",
+            "aws.api.snapchat.com",
+            "us-east1-aws.api.snapchat.com",
+            "gcp.api.snapchat.com",
+            "us-central1-gcp.api.snapchat.com",
+            "story.snapchat.com",
+            "map.snapchat.com",
+            "cf-st.sc-cdn.net"
+        ],
+        "facebook": [
+            "facebook.com",
+            "www.facebook.com",
+            "m.facebook.com",
+            "graph.facebook.com",
+            "api.facebook.com",
+            "connect.facebook.net",
+            "fbcdn.net",
+            "web.facebook.com",
+            "touch.facebook.com",
+            "mbasic.facebook.com",
+            "free.facebook.com",
+            "business.facebook.com",
+            "static.xx.fbcdn.net",
+            "scontent.xx.fbcdn.net",
+            "video.xx.fbcdn.net",
+            "external.xx.fbcdn.net",
+            "lookaside.facebook.com",
+            "facebook.net",
+            "fb.com",
+            "fb.me",
+            "l.facebook.com",
+            "lm.facebook.com",
+            "graph-video.facebook.com"
+        ],
+        "kakao": [
+            "shortform.kakao.com",
+            "play.kakao.com",
+            "shortformstats.kakao.com",
+            "shopper.kakao.com",
+            "kamp.kakao.com",
+            "adfit.kakao.com",
+            "stat.adfit.kakao.com"
+        ]
+    },
+    "proxy": [
+        "hide.me",
+        "proxysite.com",
+        "croxyproxy.com",
+        "kproxy.com",
+        "filterbypass.me",
+        "proxyium.com",
+        "vpnbook.com",
+        "anonymouse.org",
+        "4everproxy.com",
+        "hidester.com",
+        "megaproxy.com",
+        "hideoxy.com",
+        "zend2.com",
+        "dontfilter.us",
+        "newipnow.com",
+        "hidemyass.com",
+        "hotspotshield.com",
+        "betternet.co",
+        "psiphon.ca",
+        "windscribe.com",
+        "tunnelbear.com",
+        "urban-vpn.com",
+        "touchvpn.net",
+        "browsec.com",
+        "hola.org",
+        "torproject.org",
+        "bridges.torproject.org",
+        "snowflake.torproject.org",
+        "dns.google",
+        "one.one.one.one",
+        "dns.quad9.net",
+        "dns.nextdns.io",
+        "dns.adguard-dns.com",
+        "cloudflare-dns.com",
+        "mozilla.cloudflare-dns.com",
+        "security.cloudflare-dns.com",
+        "family.cloudflare-dns.com",
+        "dns.google.com",
+        "doh.opendns.com",
+        "dns.opendns.com",
+        "resolver1.opendns.com",
+        "dns.controld.com",
+        "freedns.controld.com",
+        "my.nextdns.io",
+        "nextdns.io",
+        "cloud.nextdns.io",
+        "dns.adguard.com",
+        "dns-family.adguard.com",
+        "family.adguard-dns.com",
+        "unfiltered.adguard-dns.com",
+        "protonvpn.com",
+        "surfshark.com",
+        "nordvpn.com",
+        "expressvpn.com",
+        "privateinternetaccess.com",
+        "pia-foss.github.io",
+        "getoutline.org",
+        "outlinekeys.com",
+        "shadowsocks.org",
+        "v2ray.com",
+        "v2fly.org",
+        "xray-core.app"
+    ],
+    "whitelist": [
+        "googleapis.com",
+        "play.google.com",
+        "android.googleapis.com",
+        "android.clients.google.com",
+        "auto.google.com",
+        "waze.com",
+        "maps.googleapis.com",
+        "maps.google.com",
+        "mapsengine.google.com",
+        "accounts.google.com",
+        "oauth2.googleapis.com",
+        "fcm.googleapis.com",
+        "firebase.googleapis.com",
+        "firebaseinstallations.googleapis.com",
+        "mtalk.google.com",
+        "alt1-mtalk.google.com",
+        "alt2-mtalk.google.com",
+        "alt3-mtalk.google.com",
+        "alt4-mtalk.google.com",
+        "alt5-mtalk.google.com",
+        "alt6-mtalk.google.com",
+        "alt7-mtalk.google.com",
+        "alt8-mtalk.google.com",
+        "samsungcloud.com",
+        "samsungknox.com",
+        "push.samsungmobile.com"
+    ]
+}
