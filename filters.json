@@ -15,6 +15,10 @@
     {
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt",
       "regions": ["KR"]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hooray804/adguard-gallery-filter/refs/heads/main/DNS.txt",
+      "regions": ["KR"]
     }
   ]
 }
