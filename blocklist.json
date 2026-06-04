@@ -383,6 +383,9 @@
         "v2fly.org",
         "xray-core.app"
     ],
+    "vpn_excluded": [
+        
+    ],
     "whitelist": [
         "googleapis.com",
         "play.google.com",
