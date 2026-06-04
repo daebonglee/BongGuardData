@@ -1,2 +1,2 @@
-# BongGuard_Filter
-BongGuard Korea filter
+# BongGuard Filter
+BongGuard에서 사용하는 필터 리스트
